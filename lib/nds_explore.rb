@@ -17,5 +17,4 @@ def print_first_directors_movie_titles
 
     movies_index += 1
   end
-
 end
